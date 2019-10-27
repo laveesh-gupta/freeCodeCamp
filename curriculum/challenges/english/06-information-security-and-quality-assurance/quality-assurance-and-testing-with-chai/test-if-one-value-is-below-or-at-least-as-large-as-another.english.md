@@ -2,16 +2,17 @@
 id: 587d824c367417b2b2512c4e
 title: Test if One Value is Below or At Least as Large as Another
 challengeType: 2
+forumTopicId: 301606
 ---
 
 ## Description
 <section id='description'>
-As a reminder, this project is being built upon the following starter project on <a href='https://glitch.com/#!/import/github/freeCodeCamp/boilerplate-mochachai/'>Glitch</a>, or cloned from <a href='https://github.com/freeCodeCamp/boilerplate-mochachai/'>GitHub</a>.
-.isBelow() => a < b , .isAtLeast =>  a >= b
+As a reminder, this project is being built upon the following starter project on <a href='https://glitch.com/edit/#!/remix/clone-from-repo?REPO_URL=https://github.com/freeCodeCamp/boilerplate-mochachai/'>Glitch</a>, or cloned from <a href='https://github.com/freeCodeCamp/boilerplate-mochachai/'>GitHub</a>.
 </section>
 
 ## Instructions
 <section id='instructions'>
+Use <code>assert.isBelow()</code> (i.e. less than) or <code>assert.isAtLeast()</code> (i.e. greater than or equal) to make the tests pass.
 
 </section>
 
@@ -44,6 +45,11 @@ tests:
 <section id='solution'>
 
 ```js
-// solution required
+/**
+  Backend challenges don't need solutions, 
+  because they would need to be tested against a full working project. 
+  Please check our contributing guidelines to learn more.
+*/
 ```
+
 </section>

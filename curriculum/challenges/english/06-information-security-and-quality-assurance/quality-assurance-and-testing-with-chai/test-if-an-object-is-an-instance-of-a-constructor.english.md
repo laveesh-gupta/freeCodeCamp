@@ -2,18 +2,19 @@
 id: 587d824e367417b2b2512c57
 title: Test if an Object is an Instance of a Constructor
 challengeType: 2
+forumTopicId: 301605
 ---
 
 ## Description
 <section id='description'>
-As a reminder, this project is being built upon the following starter project on <a href='https://glitch.com/#!/import/github/freeCodeCamp/boilerplate-mochachai/'>Glitch</a>, or cloned from <a href='https://github.com/freeCodeCamp/boilerplate-mochachai/'>GitHub</a>.
-#instanceOf asserts that an object is an instance of a constructor.
-Use #instanceOf or #notInstanceOf where appropriate
+As a reminder, this project is being built upon the following starter project on <a href='https://glitch.com/edit/#!/remix/clone-from-repo?REPO_URL=https://github.com/freeCodeCamp/boilerplate-mochachai/'>Glitch</a>, or cloned from <a href='https://github.com/freeCodeCamp/boilerplate-mochachai/'>GitHub</a>.
+<code>#instanceOf</code> asserts that an object is an instance of a constructor.
+
 </section>
 
 ## Instructions
 <section id='instructions'>
-
+Use <code>assert.instanceOf()</code> or <code>assert.notInstanceOf()</code> to make the tests pass. 
 </section>
 
 ## Tests
@@ -45,6 +46,11 @@ tests:
 <section id='solution'>
 
 ```js
-// solution required
+/**
+  Backend challenges don't need solutions, 
+  because they would need to be tested against a full working project. 
+  Please check our contributing guidelines to learn more.
+*/
 ```
+
 </section>
